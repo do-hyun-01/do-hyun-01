@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/render?type=slice&color=00d2ff&text=Lee+Dohyun&fontSize=70&subText=AI+and+Robotics+Engineer&subTextFontSize=30" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=00d2ff&text=Lee%20Dohyun&section=header&reversal=false&fontSize=70&subText=AI%20and%20Robotics%20Engineer&subTextFontSize=30&height=200)
 
 ## 💻 Languages
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs)](https://skillicons.dev)
